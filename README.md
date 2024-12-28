@@ -1,4 +1,4 @@
-### Salve pessoal, eu sou Davi e sejam bem-vindos ao meu GitHub! 🎉💻
+### Olá pessoal!! Sejam bem-vindos ao meu GitHub! 🎉💻
 
 ![Davi Correia's GitHub stats](https://github-readme-stats.vercel.app/api?username=davicorreia-dev&show_icons=true&locale=pt-br&theme=tokyonight&rank_icon=github)
 
