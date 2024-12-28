@@ -17,4 +17,4 @@
 </div><br/>
 
 ## Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davicorreiaoli/)
+<a src="www.linkedin.com/in/davicorreiaoli/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
