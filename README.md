@@ -1,20 +1,65 @@
-### Sejam bem-vindos ao meu GitHub! 🎉💻
+## 👋 Olá, eu sou o Davi!
 
-![Davi Correia's GitHub stats](https://github-readme-stats.vercel.app/api?username=davicorreia-dev&show_icons=true&locale=pt-br&theme=tokyonight&rank_icon=github)
+Sou estudante de **Engenharia de Software** na **Jala University** e **Técnico em Desenvolvimento de Sistemas** pelo **SENAI**, gosto de criar soluções inovadoras e eficientes. 
+---
 
-## As principais ferramentas que uso:
+## 🚀 Habilidades Técnicas
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="center" alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">    
-</div><br/>
+### Tecnologias & Ferramentas
 
-## Contato:
-<a href="//www.linkedin.com/in/davicorreiaoli/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>
+</p>
+
+---
+
+## ✨ Meus Projetos em Destaque
+
+### 🔹 [Sistema de Cadastro de Clientes](https://github.com/davicorreia-dev/nodejs-iniciantes-ifes)
+- **Tecnologias:** TypeScript, JavaScript, Node.js, NestJS, HTML, CSS (Bootstrap)  
+- **Descrição:** Projeto full-stack desenvolvido no curso *"Node.js para Iniciantes"* do IFES. Criei uma API RESTe a integrei a um front-end, implementando operações CRUD completas para gestão de clientes.
+
+---
+
+### 🔹 [Carteira SESI](https://github.com/davicorreia-dev/Carteira_Estudante_SESI)
+- **Tecnologias:** Python (KivyMD), MySQL  
+- **Descrição:** Liderei o desenvolvimento de uma aplicação mobile em grupo para controle de entrada e saída de estudantes do SESI Paulista, com funcionalidades CRUD e autenticação de usuários. Projeto realizado sob a metodologia ágil SCRUM.
+
+---
+
+### 🔹 [Clone Spotify - Imersão Front-End](https://github.com/davicorreia-dev/Imersao-Front-End)
+- **Tecnologias:** HTML, CSS, JavaScript  
+- **Descrição:** Projeto da *Imersão Front-End* da Alura. Recriação fiel da interface do Spotify, com HTML para estrutura, CSS responsivo e JavaScript para interatividade.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco minha **primeira oportunidade formal** como desenvolvedor ou estagiário para aplicar meus conhecimentos em projetos reais, contribuindo com inovação, dedicação e crescimento contínuo no desenvolvimento de soluções tecnológicas.
+
+---
+
+## 🤝 Conecte-se Comigo!
+
+📬 Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/davicorreiaoli/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:davicorreiao07@gmail.com)
+
+---
+
+> *"O esforço vence o talento natural."*
