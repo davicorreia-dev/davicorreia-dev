@@ -61,5 +61,7 @@ Busco minha **primeira oportunidade formal** como desenvolvedor ou estagiário p
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:davicorreiao07@gmail.com)
 
 ---
+![Davi Correia's GitHub stats](https://github-readme-stats.vercel.app/api?username=davicorreia-dev&show_icons=true&locale=pt-br&theme=tokyonight&rank_icon=github)
+---
 
 > *"O esforço vence o talento natural."*
